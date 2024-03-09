@@ -154,3 +154,4 @@ cython_debug/
 # modelflow 
 **/wfs
 **/graph
+**/modelsource
